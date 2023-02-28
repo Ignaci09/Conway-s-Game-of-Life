@@ -3,3 +3,8 @@ https://es.mathworks.com/matlabcentral/answers/325754-how-to-stop-while-loop-by-
 https://es.mathworks.com/matlabcentral/answers/306359-challenge-how-to-interact-with-matlab-figure-using-mouse-events#answer_238110
 
 https://es.mathworks.com/help/matlab/matlab_prog/find-array-elements-that-meet-a-condition.html
+
+Para convolución:
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.convolve2d.html
+
+https://stackoverflow.com/questions/49258716/how-to-find-sum-of-neighbor-elements-in-a-matrix
